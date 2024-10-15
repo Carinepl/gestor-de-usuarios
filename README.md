@@ -19,3 +19,12 @@ Este projeto é uma aplicação simples em Python que permite gerenciar usuário
 1. **Clone o repositório**:
    ```bash
    git clone https://github.com/Carinepl/gestor-de-usuarios.git
+   ```
+2. **Entre na pasta do projeto**:
+```bash
+   cd gestor-de-usuarios
+```
+3. **Execute o script python**:
+```bash
+   python gestor_usuario.py
+```
